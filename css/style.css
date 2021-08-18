@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+nav {
+    color: white;
+}
+
+#about-me {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    max-width: 500px;
+    border: 1px solid #fff;
+}
+
+.nav-item {
+    margin: 0 20px;
+    color: lightgrey;
+    transition: .3s;
+}
+
+.nav-item:hover {
+    color: white;
+}
+
+.nav-link {
+    color: lightgrey;
+    transition: .3s;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+#portifolio {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.project {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#me {
+    text-align: center;
+    max-width: 500px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 95px;
+}
+
+.topic-box {
+    border: 1px solid #fff;
+    margin: auto;
+}
+
+#nav-link {
+    color: white;
+    text-align: center;
+
+}
+
+#contact{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    max-width: 500px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    max-width: 500px;
+    margin: auto;
+    text-align: justify;
+    justify-content: space-between;
+}
+
+.footer {
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 500px;
+}
